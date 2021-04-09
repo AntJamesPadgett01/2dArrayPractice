@@ -1,0 +1,16 @@
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\2dArrayPractice.exe
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\2dArrayPractice.deps.json
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\2dArrayPractice.runtimeconfig.json
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\2dArrayPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\2dArrayPractice.dll
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\ref\2dArrayPractice.dll
+C:\Users\antho\repos\2dArrayPractice\bin\Debug\net5.0\2dArrayPractice.pdb
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.AssemblyInfo.cs
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.dll
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\ref\2dArrayPractice.dll
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.pdb
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.genruntimeconfig.cache
+C:\Users\antho\repos\2dArrayPractice\obj\Debug\net5.0\2dArrayPractice.csprojAssemblyReference.cache
